@@ -1,0 +1,322 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "COMBO GÀ RÁN",
+      "price": 89000,
+      "category": 4,
+      "image": "combo1.jpg",
+      "desc": "2 Miếng Gà Giòn Cay / 2 Miếng Gà Giòn Không Cay / 2 Miếng Gà Truyền thống +1 Khoai tây chiên vừa / 2 Gà Miếng Nuggets + 1 Lipton vừa",
+      "trending": true,
+      "quatity": 0
+    },
+    {
+      "id": 2,
+      "name": "COMBO MÌ Ý",
+      "price": 89000,
+      "category": 4,
+      "image": "combo2.jpg",
+      "desc": "1 Mì Ý Xốt Cà Gà Viên + 1 Miếng Gà+ 1 Lon Pepsi Can",
+      "trending": true,
+      "quatity": 10
+    },
+    {
+      "id": 3,
+      "name": "COMBO SALAD HẠT",
+      "price": 79000,
+      "category": 4,
+      "image": "combo3.jpg",
+      "desc": "1 Miếng Gà Giòn Không Cay / 1 Miếng Gà Giòn Cay / 1 Miếng Gà Truyền Thống + 1 Salad Hạt + 1 Lon Pepsi",
+      "trending": true,
+      "quatity": 10
+    },
+    {
+      "id": 4,
+      "name": "COMBO BURGER",
+      "price": 91000,
+      "category": 4,
+      "image": "combo3.jpg",
+      "desc": "1 Burger Zinger/Burger Gà Quay Flava/Burger Tôm + 1 Miếng Gà Rán + 1 Lon Pepsi",
+      "trending": true,
+      "quatity": 19
+    },
+    {
+      "id": 5,
+      "name": "6 MIẾNG GÀ RÁN",
+      "price": 205000,
+      "category": 6,
+      "image": "chicken1.jpg",
+      "desc": "1 Burger Zinger/Burger Gà Quay Flava/Burger Tôm + 1 Miếng Gà Rán + 1 Lon Pepsi",
+      "trending": true,
+      "quatity": 10
+    },
+    {
+      "id": 6,
+      "name": "1 MIẾNG ĐÙI GÀ QUAY",
+      "price": 75000,
+      "category": 6,
+      "image": "chicken2.jpg",
+      "desc": "1 Miếng Đùi Gà Quay Giấy Bạc/Đùi Gà Quay Tiêu",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 7,
+      "name": "1 MIẾNG PHI-LÊ GÀ QUAY",
+      "price": 39000,
+      "category": 6,
+      "image": "chicken3.jpg",
+      "desc": "1 Miếng Phi-lê Gà Quay Flava/Phi-lê Gà Quay Tiêu",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 8,
+      "name": "CÁNH GÀ HOT WINGS",
+      "price": 85000,
+      "category": 6,
+      "image": "chicken4.jpg",
+      "desc": "5 Cánh Gà Hot Wings",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 9,
+      "name": "GÀ VIÊN",
+      "price": 64000,
+      "category": 6,
+      "image": "chicken5.jpg",
+      "desc": "Gà Ta Vo Viên",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 10,
+      "name": "GÀ MIẾNG NUGGETS",
+      "price": 41000,
+      "category": 6,
+      "image": "chicken6.jpg",
+      "desc": "5 Gà Miếng Nuggets",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 11,
+      "name": "CƠM GÀ XIÊN QUE",
+      "price": 46000,
+      "category": 5,
+      "image": "rice1.jpg",
+      "desc": "1 Cơm Gà Xiên Que",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 12,
+      "name": "CƠM XIÊN GÀ TENDERODS",
+      "price": 46000,
+      "category": 5,
+      "image": "rice2.jpg",
+      "desc": "1 Cơm Xiên Gà Tenderods",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 13,
+      "name": "CƠM GÀ BÍT-TẾT",
+      "price": 46000,
+      "category": 5,
+      "image": "rice3.jpg",
+      "desc": "1 Cơm Gà Bít-tết",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 14,
+      "name": "CƠM GÀ RÁN",
+      "price": 41000,
+      "category": 5,
+      "image": "rice4.jpg",
+      "desc": "1 Cơm Gà Rán",
+      "trending": false,
+      "quatity": 101
+    },
+    {
+      "id": 15,
+      "name": "CƠM PHI-LÊ GÀ QUAY",
+      "price": 41000,
+      "category": 5,
+      "image": "rice5.jpg",
+      "desc": "1 Cơm Phi-lê Gà Quay",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 16,
+      "name": "PEPSI LON",
+      "price": 17000,
+      "category": 3,
+      "image": "pepsi.jpg",
+      "desc": "Pepsi Lon",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 17,
+      "name": "7UP LON",
+      "price": 17000,
+      "category": 3,
+      "image": "7up.jpg",
+      "desc": "7Up Lon",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 18,
+      "name": "MILO HỘP",
+      "price": 20000,
+      "category": 3,
+      "image": "milo.jpg",
+      "desc": "Milo Hôpk",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 19,
+      "name": "TRÀ CHANH LIPTON",
+      "price": 41000,
+      "category": 3,
+      "image": "lemon.jpg",
+      "desc": "Trà Chanh Lipton",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 20,
+      "name": "AQUAFINA 500ml",
+      "price": 15000,
+      "category": 3,
+      "image": "water.jpg",
+      "desc": "Aquafina 500ml",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 21,
+      "name": "PHÔ MAI VIÊN",
+      "price": 45000,
+      "category": 2,
+      "image": "phomai.jpg",
+      "desc": "Phô Mai Viên",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 22,
+      "name": "SÚP RONG BIỂN",
+      "price": 17000,
+      "category": 2,
+      "image": "rongbien.jpg",
+      "desc": "Súp Rong Biển",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 23,
+      "name": "SALAD HẠT",
+      "price": 36000,
+      "category": 2,
+      "image": "salad.jpg",
+      "desc": "1 Salad Hạt",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 24,
+      "name": "XIÊN QUE",
+      "price": 41000,
+      "category": 2,
+      "image": "xienque.jpg",
+      "desc": "2 Xiên Que",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 25,
+      "name": "KHOAI TÂY CHIÊN",
+      "price": 39000,
+      "category": 2,
+      "image": "khoaitaychien.jpg",
+      "desc": "Khoai Tây Chiên",
+      "trending": false,
+      "quatity": 10
+    },
+    {
+      "id": 26,
+      "name": "BURGER ZINGER",
+      "price": 39000,
+      "category": 7,
+      "image": "burger1.jpg",
+      "desc": "1 Burger Zinger",
+      "trending": false,
+      "quatity": 100
+    },
+    {
+      "id": 27,
+      "name": "BURGER TÔM",
+      "price": 45000,
+      "category": 7,
+      "image": "burger2.jpg",
+      "desc": "1 Burger Tôm",
+      "trending": false,
+      "quatity": 100
+    },
+    {
+      "id": 28,
+      "name": "BURGER GÀ QUAY FLAVA",
+      "price": 55000,
+      "category": 7,
+      "image": "burger3.jpg",
+      "desc": "1 Burger Gà Quay Flava",
+      "trending": false,
+      "quatity": 100
+    }
+  ],
+  "orders": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tất cả món ăn",
+      "image": "category1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Thức ăn nhẹ",
+      "image": "phomai.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nước giải khát",
+      "image": "water.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Combo",
+      "image": "category1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Thực phẩm cơm",
+      "image": "rice5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Thực phẩm gà",
+      "image": "chicken6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hamberger",
+      "image": "burger1.jpg"
+    }
+  ]
+}
